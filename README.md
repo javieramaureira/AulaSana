@@ -7,10 +7,9 @@
 ## 🌟 El Proyecto
 **AulaSana** es una plataforma interactiva diseñada para diagnosticar y comparar la **Calidad Ambiental Interior (IEQ)** en entornos educativos. El confort térmico, la calidad del aire y la salud no son lujos, son condiciones críticas para el aprendizaje y el rendimiento cognitivo.
 
-### 📍 Escuelas en Estudio
+### 📍 Escuela en Estudio
 Comparamos dos realidades distintas para entender el impacto del entorno y la arquitectura:
 1. **Escuela Los Avellanos** (Polcura) - *Contexto Rural*
-2. **Escuela Irene Frei** (Concepción) - *Contexto Urbano*
 
 ---
 
