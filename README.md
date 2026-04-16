@@ -1,27 +1,60 @@
-# AulaSana
- Evaluación de la Calidad Ambiental Interior en Salas de Clase
-Contexto: Diversos estudios han demostrado que las condiciones ambientales al interior de las salas de clases influyen directamente en el confort térmico, la salud y el rendimiento cognitivo de estudiantes y docentes. En este contexto, resulta fundamental contar con diagnósticos comparables que permitan identificar brechas en la calidad ambiental interior (IEQ) entre distintos establecimientos educativos.
-A partir de lo anterior, se propone analizar y comparar el desempeño ambiental de salas de clases en dos escuelas con contextos territoriales distintos:
-Escuela Los Avellanos, ubicada en la localidad rural de Polcura
-Escuela Irene Frei, ubicada en la ciudad de Concepción
-Esta comparación permite no solo evaluar condiciones individuales, sino también identificar diferencias asociadas al entorno, tipología constructiva y condiciones de uso.
+# 🏫 AulaSana: Evaluación de Calidad Ambiental Interior
 
-Objetivo general: 
-Analizar y comparar la calidad ambiental interior (IEQ) en salas de clases de las escuelas Los Avellanos (Polcura) e Irene Frei (Concepción), evaluando el cumplimiento de estándares internacionales en variables clave como CO₂, humedad relativa, temperatura y material particulado (PM2.5), con el fin de generar evidencia que apoye la toma de decisiones y la priorización de intervenciones en infraestructura escolar.
+> **Proyecto Fondecyt de Iniciación N°1240683** > *"Classroom Retrofit: Evaluating the Potential of Transitioning Existing Schools Towards Healthy and High-Performance Environments as Urgent Response to a Changing Climate."*
 
-Cliente: Este dashboard se desarrolla en el contexto del proyecto Fondecyt de Iniciación N°1240683, titulado:  “Classroom Retrofit: Evaluating the Potential of Transitioning Existing Schools Towards Healthy and High-Performance Environments as Urgent Response to a Changing Climate.”
-El cliente requiere que la visualización utilice la identidad gráfica del proyecto, incluyendo colores y logotipos institucionales.
-Usuarios: Los principales usuarios de esta herramienta son:
-Encargados de infraestructura del SLEP
-Autoridades y equipos directivos de los establecimientos educacionales
-Investigadores asociados al proyecto Fondecyt
+---
 
+## 🌟 El Proyecto
+**AulaSana** es una plataforma interactiva diseñada para diagnosticar y comparar la **Calidad Ambiental Interior (IEQ)** en entornos educativos. El confort térmico, la calidad del aire y la salud no son lujos, son condiciones críticas para el aprendizaje y el rendimiento cognitivo.
 
-2. Pertinencia y corrección del Dashboard 
+### 📍 Escuelas en Estudio
+Comparamos dos realidades distintas para entender el impacto del entorno y la arquitectura:
+1. **Escuela Los Avellanos** (Polcura) - *Contexto Rural*
+2. **Escuela Irene Frei** (Concepción) - *Contexto Urbano*
 
-Título Dashboard: Evaluación de la Calidad Ambiental Interior en Salas de Clase .
-Logos institucionales: UDEC, ANID, Logo Proyecto Classroom Fondecyt
-Pertinencia/finalidad: Analizar la evolución temporal  de las distintas variables y compararlo con normas nacionales e internacionales. 
-CO₂ vs hora del día y vs días del mes
-Temperatura vs hora y vs días del mes
-PM2.5 vs hora  y vs días del mes
+---
+
+## 🎯 Objetivo General
+Analizar y comparar el cumplimiento de estándares internacionales en variables clave para la salud escolar, generando evidencia científica que permita:
+- 📊 Identificar brechas de calidad ambiental.
+- 🛠️ Priorizar intervenciones en infraestructura.
+- 🏫 Transformar escuelas en entornos de alto desempeño.
+
+---
+
+## 📈 Variables Monitoreadas
+El dashboard analiza la evolución temporal (hora/día/mes) de:
+
+| Variable | Importancia | Estándar Objetivo |
+| :--- | :--- | :--- |
+| 🌬️ **CO₂** | Ventilación y pureza del aire | < 1000 ppm |
+| 🌡️ **Temperatura** | Confort térmico y bienestar | 18°C - 24°C |
+| 💧 **Humedad** | Prevención de moho y salud respiratoria | 40% - 60% |
+| 🌫️ **PM2.5** | Material particulado fino | Normativa OMS |
+
+---
+
+## 👥 Usuarios Clave
+Esta herramienta está diseñada para:
+* 🏢 **Encargados de Infraestructura (SLEP):** Toma de decisiones basada en datos.
+* 👨‍🏫 **Equipos Directivos:** Gestión del ambiente escolar diario.
+* 🔬 **Investigadores:** Análisis científico y publicaciones académicas.
+
+---
+
+## 🛠️ Stack Tecnológico
+* **Lenguaje:** Python 🐍
+* **Visualización:** Plotly & Dash / Streamlit
+* **Hosting:** Render (Cloud Service)
+* **Control de Versiones:** GitHub
+
+---
+
+## 🏛️ Instituciones Participantes
+Este proyecto es posible gracias al apoyo de:
+* **UDEC** - Universidad de Concepción
+* **ANID** - Agencia Nacional de Investigación y Desarrollo
+* **Logo Proyecto Classroom Fondecyt**
+
+---
+© 2026 - Investigador Principal: *Javiera Maureira & Maria José Peña Asociados*
