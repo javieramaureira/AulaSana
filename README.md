@@ -1,6 +1,6 @@
 # 🏫 AulaSana: Evaluación de Calidad Ambiental Interior
 
-> **Proyecto Fondecyt de Iniciación N°1240683** > *"Classroom Retrofit: Evaluating the Potential of Transitioning Existing Schools Towards Healthy and High-Performance Environments as Urgent Response to a Changing Climate."*
+> **Proyecto Fondecyt de Iniciación N°1240683** > "Remodelación de aulas: Evaluación del potencial de la transición de las escuelas existentes hacia entornos saludables y de alto rendimiento como respuesta urgente a un clima cambiante"
 
 ---
 
@@ -8,9 +8,11 @@
 **AulaSana** es una plataforma interactiva diseñada para diagnosticar y comparar la **Calidad Ambiental Interior (IEQ)** en entornos educativos. El confort térmico, la calidad del aire y la salud no son lujos, son condiciones críticas para el aprendizaje y el rendimiento cognitivo.
 
 ### 📍 Escuelas en Estudio
-Comparamos dos realidades distintas para entender el impacto del entorno y la arquitectura:
 1. **Escuela Los Avellanos** (Polcura) - *Contexto Rural*
 2. **Escuela Irene Frei** (Concepción) - *Contexto Urbano*
+
+En esta oportunidad Comparamos la realidad de las salas de solo la escuela "Los Avellanos" para entender el impacto del entorno y la arquitectura, con una mirada
+de que sea escalable a otros establecimientos.
 
 ---
 
@@ -27,9 +29,9 @@ El dashboard analiza la evolución temporal (hora/día/mes) de:
 
 | Variable | Importancia | Estándar Objetivo |
 | :--- | :--- | :--- |
-| 🌬️ **CO₂** | Ventilación y pureza del aire | < 1000 ppm |
-| 🌡️ **Temperatura** | Confort térmico y bienestar | 18°C - 24°C |
-| 💧 **Humedad** | Prevención de moho y salud respiratoria | 40% - 60% |
+| 🌬️ **CO₂** | Ventilación y pureza del aire | < 700 ppm |
+| 🌡️ **Temperatura** | Confort térmico y bienestar | 19.4°C - 27.7°C |
+| 💧 **Humedad** | Prevención de moho y salud respiratoria | 30% - 60% |
 | 🌫️ **PM2.5** | Material particulado fino | Normativa OMS |
 
 ---
