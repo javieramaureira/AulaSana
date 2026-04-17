@@ -58,4 +58,6 @@ Este proyecto es posible gracias al apoyo de:
 * **Logo Proyecto Classroom Fondecyt**
 
 ---
-© 2026 - Investigador Principal: *Javiera Maureira & Maria José Peña Asociados*
+© 2026 - Investigadores Principales: *Javiera Maureira & Maria José Peña Asociados*
+
+http://localhost:8060/
