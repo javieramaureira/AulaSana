@@ -46,7 +46,6 @@ Esta herramienta está diseñada para:
 * **Lenguaje:** Python 🐍
 * **Visualización:** Plotly & Dash / Streamlit
 * **Hosting:** Render (Cloud Service)
-* **Control de Versiones:** GitHub
 
 ---
 
